@@ -1,1 +1,2 @@
 # markdown
+## Markdown es un lenguaje de marcado ligero que permite escribir texto con formato utilizando una sintaxis simple y fácil de leer. Se utiliza comúnmente para crear documentos estructurados, como README de proyectos, blogs y documentación técnica. Con Markdown, puedes aplicar negrita, cursiva, listas, enlaces, imágenes y más, todo utilizando caracteres como asteriscos, guiones y almohadillas. Este lenguaje es compatible con muchos editores y plataformas de desarrollo, lo que lo convierte en una opción popular para la escritura de contenido web
